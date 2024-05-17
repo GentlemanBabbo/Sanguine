@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="0ec216d7-25b4-4b46-ad63-38aa13281f47" /> must be unique
+					<attribute id="Name" type="LSString" value="BASE_Main_Female_Sanguine" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> base elf reference
+					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="957ea6b2-b9f5-463e-91c9-277e76eedc88" /> which models to load
+					<attribute id="Race" type="guid" value="de66843c-b0d4-49f0-a636-e2718ea75956" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="0d03d41d-8d87-43ea-9f4e-6533188155f6" /> Custom Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="730aa56d-2fa9-43a0-aff9-49e90e746fa8" /> must be unique
+					<attribute id="Name" type="LSString" value="BASE_Main_Male_Sanguine" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" /> base elf reference
+					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="0980309d-e986-4263-b1d1-6462c803d30c" /> which models to load
+					<attribute id="Race" type="guid" value="de66843c-b0d4-49f0-a636-e2718ea75956" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="0d03d41d-8d87-43ea-9f4e-6533188155f6" /> Custom Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="f9574698-73ac-4008-bc41-9a9f402a98ea" /> must be unique
+					<attribute id="Name" type="LSString" value="Sanguine_Female_Orthodox_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ec216d7-25b4-4b46-ad63-38aa13281f47" /> inherits from normal CustomRace body
+					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="f7c0ad98-beda-4125-8b61-6a3a77911e7d" /> which models to load
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
+					<attribute id="Race" type="guid" value="5f903b93-1793-4d69-8750-70f54e25c549" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="c1ed7889-50e2-4f9f-ac7d-973c840b71e5" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="a9b0488e-054d-4d0e-ab8e-1b599043d4a5" /> must be unique
+					<attribute id="Name" type="LSString" value="Sanguine_Male_Orthodox_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="730aa56d-2fa9-43a0-aff9-49e90e746fa8" /> inherits from normal body Custom Race
+					<attribute id="Icon" type="FixedString" value="e5e2749d-f952-5ceb-0fde-f825cd07a2ae-_(Icon_CC_HalfOrcs_Male)" />
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="caba9c5b-997e-4806-a26d-4bb2516fcfa4" /> which models to load
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_CC_HalfOrcs_Male" />
+					<attribute id="Race" type="guid" value="5f903b93-1793-4d69-8750-70f54e25c549" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="c1ed7889-50e2-4f9f-ac7d-973c840b71e5" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
