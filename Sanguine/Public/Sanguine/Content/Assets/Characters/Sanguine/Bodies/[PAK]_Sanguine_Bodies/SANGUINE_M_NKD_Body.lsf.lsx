@@ -475,12 +475,12 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 
 							<attribute id="MaterialID" type="FixedString" value="6e3e064b-64a6-44b1-95ab-af5db3789f60" />
-							<attribute id="ObjectID" type="FixedString" value="Sanguine_M_NKD_Body.Arms.0" />
+							<attribute id="ObjectID" type="FixedString" value="Sanguine_M_NKD_Body.Body.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 
-							<attribute id="MaterialID" type="FixedString" value="6e3e064b-64a6-44b1-95ab-af5db3789f60" />
-							<attribute id="ObjectID" type="FixedString" value="Sanguine_M_NKD_Body.Body.1" />
+							<attribute id="MaterialID" type="FixedString" value="5281e271-d640-3e01-0635-2da97f5afa55" />
+							<attribute id="ObjectID" type="FixedString" value="Sanguine_M_NKD_Body.Arms.1" />
 						</node>
 					</children>
 				</node>
