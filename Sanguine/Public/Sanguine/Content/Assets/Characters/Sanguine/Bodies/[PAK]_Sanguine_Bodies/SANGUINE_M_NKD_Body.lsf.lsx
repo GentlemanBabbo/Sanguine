@@ -232,7 +232,7 @@
 							<attribute id="ParameterName" type="FixedString" value="DetailNormalMap" />
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="" />
 							<attribute id="ID" type="FixedString" value="b9b98b2e-c132-479d-b3ee-841ba80f4485" />
@@ -268,7 +268,7 @@
 						</node>
 						<node id="Vector2Parameters">
 							<attribute id="BaseValue" type="fvec2" value="4 5" />
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="False" />
 							<attribute id="GroupName" type="FixedString" value="05Makeup" />
 							<attribute id="ParameterName" type="FixedString" value="MakeUpAtlasUVCount" />
