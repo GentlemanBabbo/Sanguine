@@ -1767,7 +1767,6 @@
 							<attribute id="GroupName" type="FixedString" value="05Makeup" />
 							<attribute id="ParameterName" type="FixedString" value="MakeupRoughness" />
 							<attribute id="Value" type="float" value="0.5" />
-						</node>ttribute id="Value" type="float" value="0" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
