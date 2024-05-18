@@ -2300,14 +2300,15 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="Sanguine_M_Head_A.4_STONE_MS_NKD_Head_A_Eyeshadow_Mesh.3" />
+							<attribute id="MaterialID" type="FixedString" value="6e22e793-7992-6cdf-5f01-a02bb1e4d02d" />
+							<attribute id="ObjectID" type="FixedString" value="Sanguine_M_Head_A.5_STONE_MS_NKD_Head_A_Tearline_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="6e22e793-7992-6cdf-5f01-a02bb1e4d02d" />
-							<attribute id="ObjectID" type="FixedString" value="Sanguine_M_Head_A.5_STONE_MS_NKD_Head_A_Tearline_Mesh.4" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="Sanguine_M_Head_A.4_STONE_MS_NKD_Head_A_Eyeshadow_Mesh.4" />
 						</node>
+
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="6e22e793-7992-6cdf-5f01-a02bb1e4d02d" />
